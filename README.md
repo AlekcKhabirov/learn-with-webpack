@@ -1,5 +1,11 @@
 # learn-with-webpack
-# WEBPACK
+
+ git config --global user.name "Alekc"
+>> git config --global user.email "alekc@mail.ru"
+>> git config --global core.autocrlf true
+>> git config --global core.quotepatch off
+>> git config --global core.safecrlf warn
+>> git config --global init.defaultBranch main
 
 ссылка на youtube
 https://youtu.be/o8KMucDpSno
